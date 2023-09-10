@@ -24,43 +24,46 @@ A user will round up the amount spent for every purchase made and put the change
 
 - What technologies are needed?
 
-> Your answer here...
+> React
+> React redux
+
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> React Redux
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> This would be a mobile app that a user signs into; he is then allowed to connect his personal bank information in order to give the app the access to withdrawl the difference from the cost to the savings account. Here the user will be able to track the savings account growth as he / she continues spending their money on a daily basis. 
 
 - What are the app milestones
 
-> Your answer here...
+> The goal is to get the user to save additional money by creating a new savings account that would store the users remaining cents after their purchases is rounded up to the nearest dollar. 
 
 - What other things need to be considered about this app?
 
-> Your answer here...
+> Security; we dont want our users bank data or their savings account that they have been building to be be hacked or stolen. 
+> Functionality; we want the experience very simple and easy for the user, so they can easily see graphs, and pictures that display the financial information they need.
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes, it would be very difficult to build out the actual complete functioning app because we would technically be building a bank, but the structure of the front-end and the basic foundation for the back end could be built for the hackaton.
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> It is feasible for us to make some type of saving tracker for the user to be able to visually see their savings and be rounding their cost to the exact amount that they should put into their savings on a daily basis.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> The app would send you daily notification of progress, alerts after purchases, and reminds you where you are after you made your purchases.
 
 - How could people misuse this application?
 
-> Your answer here...
+> Other people can track your spending habbits and possibly location hack if someone is able to get into the purchasing data.
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Yes someone could find a way to hack into users personal banking passwords and logins and steal their idetification to commit crime. 
 
 > **Note**: For a hack-a-thon, imagine you are a team of 4 people, so try to plan the milestones knowing that multiple people are contributing.
 
@@ -74,40 +77,45 @@ It is anonymous; no pictures, real names, or locations are shared. Once the conn
 
 - What technologies are needed?
 
-> Your answer here...
+> React
+> React redux
+> Postgres SQL
+> TQL
 
 - Would you have to learn a new technology?
 
-> Your answer here...
+> React Redux
+> Postgres SQL
+
 
 - What would MVP look like (use user stories)
 
-> Your answer here...
+> Users will be able to log on to the app and create an annonymous account where they will be able to communicate with other humans after they select an option for a topic and a mood. The user will rate their discussions after they are done and give the users a 1-5 rating based on how good the other user was. 
 
 - What are the app milestones
 
-> Your answer here...
+> This will help people by allowing them a space to speak their thoughts and communicate with someone who is on their mood in order to get other opinions or share your ideas and see what people think. 
 
 - What other things need to be considered about this app
 
-> Your answer here...
+> We must find a AI to track the conversations and make sure they dont get out of hand. If the user makes comments about suicide, commiting a crime, or anything like this they will get a warning and the AI would see if police would need to intervien
 
 - Is this app idea feasible for a hack-a-thon?
 
-> Your answer here...
+> Yes we believe that this is a feasible project for a hack-a-thon; it would be a messaging app using CRUD to be able to post messages between users after they complete their conversation they would be given a form to fill with a rating of 1-5 and a comment that he/she has about the user. 
 
 - Can you adapt this idea to make it more feasible for the timeline?
 
-> Your answer here...
+> This is probably a feasible idea for a project for the hackaton, it is less complicated due to the banking situation and connecting the users with the banking stamps. We would have to create a server to store the data and display it for the users when they are communicating.
 
 - How could you encourage users to interact with this app regularly?
 
-> Your answer here...
+> The app can give notifications about popular trending topics people are currently speaking about
 
 - How could people misuse this application?
 
-> Your answer here...
+> The annominity factor could leave people vulnerable to people who will want to hurt them with racially motivated comments or negative comments. 
 
 - Are there any safety issues with this application?
 
-> Your answer here...
+> Yes if the users location or identity is hacked this could lead to someone being targeted in real life and possibly being hurt financially or physically. 
